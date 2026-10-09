@@ -6,17 +6,17 @@
         gif: "gif1.gif"
     },
     { 
-        text: "May this day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "i caught myself smiling out of nowhere in the middle of routine days, constantly disctracted by the happiness of having you in my life 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "i spent this thirty days quietly observing the little things about you that how you laugh, the stories you share, and all the details that make you uniquely yourself. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. And Thank you for coming in my life!💖 ", 
+        text: "Stay the amazing, stay childish, i love you as it is what you are And at last Thank you for coming in my life!💖 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
